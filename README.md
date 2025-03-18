@@ -67,7 +67,7 @@ data-warehouse-project/
 
 ## 🌟 About Me
 
-Hi there! I'm **Keshav Upadhyay**. I'm a third-year B.Tech student in Electrical Engineering at SGSITS Indore, passionate about Business Analytics, Data Analytics, Data Engineering, and Product Management.
+Hi there! I'm **Keshav Upadhyay**. I'm a third-year B.Tech student in Electrical Engineering at SGSITS, Indore, passionate about Business Analytics, Data Analytics, Data Engineering, and Product Management.
 
 Let's stay in touch! Feel free to connect with me on the following platforms:
 
