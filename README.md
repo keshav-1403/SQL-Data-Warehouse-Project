@@ -75,5 +75,6 @@ Hi there! I'm **Keshav Upadhyay**. I'm a third-year B.Tech student in Electrical
 Let's stay in touch! Feel free to connect with me on the following platforms:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/keshavupadhyay1/)
-[![Instagram](https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=purple)]([http://bit.ly/3GiCVUE](https://www.instagram.com/_k3shav?igsh=cGRuYzA4bHRxcnpk&utm_source=qr))
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/@_k3shav/)
+
 
